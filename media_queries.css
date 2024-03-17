@@ -27,6 +27,7 @@
         width: 100%;
         padding: 40px 20px 40px 0px;
         text-align: center;
+        transition: 0.3s ease;
     }
 
     .active{
